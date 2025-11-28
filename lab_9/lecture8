@@ -1,0 +1,7 @@
+Graphs
+1) Adjacency matrix
+2) Adjancency list 
+        -Breadtrh first search
+        -Shortest path
+3)Edge list 
+        -Dijkstra's algorithm
