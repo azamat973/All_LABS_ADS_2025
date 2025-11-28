@@ -1,0 +1,20 @@
+/*  Hash tables
+1)id
+2)hash functions
+3)open address tables
+4)hash table via linked lists
+5)rollong polynomial hashing
+6)rabin Karp
+*/
+
+
+
+/*
+void quicksort(int* arr, int beg, int end){
+    if(beg<=end){
+        int p = partition(arr,beg, end);
+        //todo
+        quicksort(arr,beg,p-1);
+        quicksort(arr,p+1,end);
+    }
+}*/
